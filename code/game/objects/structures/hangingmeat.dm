@@ -15,7 +15,3 @@
 	dir = SOUTH
 	destroy_sound = 'sound/combat/hits/onwood/destroyfurniture.ogg'
 	attacked_sound = list('sound/combat/hits/onwood/woodimpact (1).ogg','sound/combat/hits/onwood/woodimpact (2).ogg')
-
-
-/obj/structure/fluff/hangingmeat
-	icon_state = "smoked_meat"
